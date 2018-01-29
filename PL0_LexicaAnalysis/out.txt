@@ -1,0 +1,12 @@
+Word		    Category		Value
+if                  KeyWord             if                  
+n                   Identifier          n                   
+>=                  DoubleOperator      >=                  
+2.2222              Constant            10.001110           
+then                KeyWord             then                
+pf                  Identifier          pf                  
+:=                  DoubleOperator      :=                  
+true                Identifier          true                
+;                   Boundary            ;                   
+end                 KeyWord             end                 
+.                   Boundary            .                   

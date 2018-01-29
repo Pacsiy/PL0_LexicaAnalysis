@@ -1,0 +1,32 @@
+const var INF = 1000005;
+const var PI = 3.1415926535;
+
+procedure max;
+begin
+	var temp;
+	if (a > b)
+	then temp := a;
+	else temp := b;
+end
+
+begin
+	var r, S;
+	read(r);
+	S := PI * r * r;
+	write(r, S);
+
+	var minNum := -INF;
+	var answer := a + b * c / d;
+
+	a > b >= c < d <= e <> f;
+
+	while a > 0 do
+	begin
+		a := a - 1;
+	end
+	
+	repeat b := b + 1;
+	until b > 10;
+	
+	call max;
+end.

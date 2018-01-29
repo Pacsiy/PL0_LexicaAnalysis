@@ -1,0 +1,4 @@
+﻿  Compiler.cpp
+e:\studying\myhomework_classthreefs\compilation\cplab1\pl0_lexicaanalysis\pl0_lexicaanalysis\compiler.cpp(153): warning C4244: “参数”: 从“double”转换到“char”，可能丢失数据
+  PL0_LexicaAnalysis.vcxproj -> E:\Studying\MyHomeWork_ClassThreeFS\Compilation\CPLab1\PL0_LexicaAnalysis\Debug\PL0_LexicaAnalysis.exe
+  PL0_LexicaAnalysis.vcxproj -> E:\Studying\MyHomeWork_ClassThreeFS\Compilation\CPLab1\PL0_LexicaAnalysis\Debug\PL0_LexicaAnalysis.pdb (Full PDB)

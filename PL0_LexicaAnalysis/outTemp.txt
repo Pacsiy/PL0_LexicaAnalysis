@@ -1,0 +1,6 @@
+Word		    Category		Value
+var                 KeyWord             var                 
+a                   Identifier          a                   
+=                   SingleOperator      =                   
+1.23                Constant            1.001110            
+;                   Boundary            ;                   

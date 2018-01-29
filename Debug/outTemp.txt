@@ -1,0 +1,6 @@
+Word		    Category		Value
+const               KeyWord             const               
+a                   Identifier          a                   
+=                   SingleOperator      =                   
+1                   Constant            1                   
+;                   Boundary            ;                   
